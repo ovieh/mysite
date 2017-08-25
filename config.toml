@@ -7,10 +7,10 @@ metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
 #disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+googleAnalytics = "UA-104019397-1"
 
 [Params]
-  subtitle = "I am learning to code"
+  subtitle = "Brewing Up Code"
   logo = "img/profile.jpg"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
