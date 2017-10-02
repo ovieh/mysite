@@ -1,5 +1,5 @@
 ---
-title: "Week 6"
+title: "Week Six"
 date: 2017-09-27T15:29:58-04:00
 draft: false
 ---
