@@ -10,5 +10,5 @@ Our latest homework project was the create a train scheduling site that implemen
 
 Here is as link to the <a href=”http://www.ovieh.com/TrainScheduler” target=”_blank”>live</a> version of my project and along with a link the <a href=”https://www.github.com/ovieh/TrainScheduler” target=”_blank”>source</a> on Github.
 
-![Week Seven Site Screenshot](img/week_7.png)
+![Week Seven Site Screenshot](/img/week_7.png)
 
