@@ -7,7 +7,7 @@ This week we learned ways of accessing tools and data not of our creation throug
 
 This weeks project was to use Giphy’s API to display ten GIFs based on predefined topics and allowing to add your topics. Upon clicking, the gifs would animate and when clicked again, the gifs will stop. 
 
-Here is a <a href=”http://www.github.com/ovieh/GIfTastic” target=”_blank">link</a> to my projects source at Github, along with a <a href=”http://www.ovieh.com/GifTastic/” target=”_blank>link</a> to the live version.
+Here is a <a href="http://www.github.com/ovieh/GIfTastic" target="_blank">link</a> to my projects source at Github, along with a <a href="http://www.ovieh.com/GifTastic/" target="_blank>link</a> to the live version.
 
 ![GifTastic](/img/week_6.png)
 
