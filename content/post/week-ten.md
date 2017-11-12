@@ -15,3 +15,4 @@ Node.js comes bundled wite Node Package Manager. NPM provides packages, or libra
 Our project this week was to create Siri-like program, LIRI - Language Interpretaption Recognition Interface. The program has three modules, each using a different NPM Package. Using the <a href="https://www.npmjs.com/package/twitter" target="_blank">Twitter</a> NPM package, we were to display a users last twenty tweets with a timestamp. Using the <a href="https://www.npmjs.com/package/node-spotify-api" target="_blank">Node Spotify App</a> package we returned song info when given a song title. Using the <a href="https://www.npmjs.com/package/request" target="_blank">Request</a> package we called the OMDB database to return movie information. The request and the response were both appened to a log, using the built in FS node pagkage.
 
 Here's a <a href="https://github.com/ovieh/liri-node-app" target="_blank" alt="link to source">link</a> to to source code on Github.
+

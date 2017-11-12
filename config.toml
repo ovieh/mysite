@@ -64,11 +64,11 @@ desc = "Photo by me"
     url = "page/about/"
     weight = 3
 
-# [[menu.main]]
-#     identifier = "portolio"
-#     name = "Portfolio"
-#     url = "page/portfolio"
-#     weight = 2
+[[menu.main]]
+    identifier = "projects"
+    name = "projects"
+    url = "page/projects"
+    weight = 2
 
 # [[menu.main]]
 #     parent = "samples"
