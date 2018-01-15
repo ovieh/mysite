@@ -1,7 +1,7 @@
 ---
 title: "Weeks Sixteen & Seventeen"
 date: 2017-12-20T16:19:34-05:00
-draft: true
+draft: false
 tags: ["Node.js", "Socket.io", "WebSockets", "JavaScript","MySQL", "Sequelize", "Handlebars", "Express"]
 ---
 
