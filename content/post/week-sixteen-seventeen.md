@@ -11,4 +11,4 @@ This project turned out to be a huge undertaking considering the time constraint
 
 Below is a screenshot of the app. Here is a link to the [live](https://doodlebuddy.herokuapp.com/) version of the site and a [link](https://github.com/Doodle-Buddy/Doodle-Buddy) to the Github repository.
 
-[Doodle Buddy Screenshot](/img/doodle_buddy.png)
+![Doodle Buddy Screenshot](/img/doodle_buddy.png)
