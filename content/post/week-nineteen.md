@@ -1,7 +1,7 @@
 ---
 title: "Week Nineteen"
 date: 2018-01-15T16:27:56-05:00
-draft: true
+draft: false
 tags: ["React", "ES6", "JavaScript" ]
 ---
 
